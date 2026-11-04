@@ -1,0 +1,4 @@
+{"chat_metadata":{},"user_name":"Player","character_name":"GM"}
+{"name":"Player","is_user":true,"mes":"I bring the guild clerk tea and set it beside her ledger."}
+{"name":"GM","is_user":false,"mes":"The guild clerk takes the tea with both hands. She tells you to come back whole."}
+{"name":"Player","is_user":true,"mes":"I bring the guild clerk tea again."}

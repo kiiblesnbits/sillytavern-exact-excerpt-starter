@@ -1,0 +1,8 @@
+{
+  "display_name": "Exact Excerpt Starter",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "version": "1.0.0"
+}
